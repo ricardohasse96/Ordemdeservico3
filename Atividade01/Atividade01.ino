@@ -11,6 +11,8 @@
 int contador_armazem_metal = 0;
 int contador_armazem_branco = 0;
 int contador_armazem_preto = 0;
+
+//PROTOTIPAGEM DE FUNÇÕES
 bool detectarItem();
 String definirTipoDeItem();
 bool verificarDisponibilidadeDoArmazem(String tipo_item);
